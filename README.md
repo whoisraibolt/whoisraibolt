@@ -1,7 +1,13 @@
-<h2 align="center">Hi there — I'm Alexandra Raibolt.</h2>
+<h2 align="center">Hi there 🌻'</h2>
 
 <p align="justify">
-I'm a Master's Degree student in Sistemas e Computação at the Instituto Militar de Engenharia (IME), where I'm currently working with Machine Learning and Computer Vision techniques combined with Mobile Robotics, graduated in Sistemas de Informação at the Universidade Estácio de Sá (UNESA) in the year 2019 and graduated in Tecnologia da Informação e Comunicação at the Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ) in the year 2018. I'm passionate about Machine Learning, Computer Vision, Pattern Recognition, Robotics, Data Science, and Business Intelligence. I have experience in Machine Learning, with emphasis on Neural Networks. I'm currently working with Machine Learning and Computer Vision at Fu2re Smart Solutions as a Research Specialist I.
+Computer Vision Engineer and MSc in Computer Science and Computer Systems — PPgSC (2021) by the Military Institute of Engineering — IME. Currently, Alexandra is a PhD student in the Graduate Program in Defense Engineering — PPgED (2024) at the Military Engineering Institute — IME. Graduated in Information Systems in the Estácio de Sá University — UNESA (2019) and graduated in Information and Communication Technology in the Faculty of Technological Education of the State of Rio de Janeiro — FAETERJ (2018).
+
+Alexandra has been working since 2015 with Machine Learning and Computer Vision techniques. Specialist in Neural Networks and Deep Convolutional Neural Networks, with solid experience in Computer Vision, Pattern Recognition and Mobile Robotics.
+
+Currently, Alexandra works with Machine Learning and Computer Vision at Fu2re Smart Solutions as Research Specialist I.
+
+In spare time, Alexandra likes to spend time with her family and dedicate herself to hobbies, such as juggling, drawing, and games. After all, we are not machines, despite working with them. 🦾'
 </p>
 
 <p align="center">
