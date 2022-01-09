@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 🌻'</h2>
+<h2 align="center">Hi there!</h2>
 
 <p align="justify">
 Computer Vision Engineer and MSc in Computer Science and Computer Systems — PPgSC (2021) by the Military Institute of Engineering — IME. Currently, Alexandra is a PhD student in the Graduate Program in Defense Engineering — PPgED (2024) at the Military Engineering Institute — IME. Graduated in Information Systems in the Estácio de Sá University — UNESA (2019) and graduated in Information and Communication Technology in the Faculty of Technological Education of the State of Rio de Janeiro — FAETERJ (2018).
