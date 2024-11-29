@@ -1,13 +1,19 @@
 <h2 align="center">Hi there!</h2>
 
 <p align="justify">
-Computer Vision Engineer and MSc in Computer Science and Computer Systems — PPgSC (2021) by the Military Institute of Engineering — IME. Currently, Alexandra is a PhD student in the Graduate Program in Defense Engineering — PPgED (2024) at the Military Engineering Institute — IME. Graduated in Information Systems in the Estácio de Sá University — UNESA (2019) and graduated in Information and Communication Technology in the Faculty of Technological Education of the State of Rio de Janeiro — FAETERJ (2018).
+Research fellow at the Foundation for Research, Development, and Innovation Support of the Brazilian Army (FAPEB) and Ph.D. student in the Graduate Program in Defense Engineering (PGEDD) at the Military Institute of Engineering (IME). Holds a master’s degree from the Graduate Program in Systems and Computing (PGSC) at the Military Institute of Engineering (IME) (2021), as well as a bachelor’s degree in Information Systems from UNESA (2019) and in Information and Communication Technology from FAETERJ (2018). Has been working since 2015 in Machine Learning and Computer Vision, specializing in Neural Networks and Deep Convolutional Neural Networks.
+</p>
 
-Alexandra has been working since 2015 with Machine Learning and Computer Vision techniques. Specialist in Neural Networks and Deep Convolutional Neural Networks, with solid experience in Computer Vision, Pattern Recognition and Mobile Robotics.
+<p align="justify">
+With solid experience in Computer Vision, Pattern Recognition, and Mobile Robotics, develops academic and extension projects in areas such as Artificial Intelligence and Ethical Algorithms. Currently serves as the coordinator of the Distance Learning Associate Degree in Systems Analysis and Development and as a professor at the Centro Universitário Serra dos Órgãos (UNIFESO), teaching in the programs of Distance Learning Systems Analysis and Development and Computer Science.
+</p>
 
-Currently, Alexandra works with Machine Learning and Computer Vision at Fu2re Smart Solutions as Research Specialist I.
+<p align="justify">
+Responsible for content curation, pedagogical review, question development, and audiovisual production as a content creator. Coordinates the extension project "Unveiling Algorithmic Racism: A Contemporary Analysis" (2024), linked to the Academic Directorate of Human and Technological Sciences (DACHT Social) at UNIFESO.
+</p>
 
-In spare time, Alexandra likes to spend time with her family and dedicate herself to hobbies, such as juggling, drawing, and games. After all, we are not machines, despite working with them. 🦾'
+<p align="justify">
+Coordinated the scientific initiation project "Thoracic Radiological Diagnosis Support System with Deep Convolutional Neural Networks" (2022/2023), developed under the Scientific Initiation and Research Plan (PICPq) at UNIFESO.
 </p>
 
 <p align="center">
