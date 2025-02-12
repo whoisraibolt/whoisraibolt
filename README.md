@@ -9,7 +9,11 @@ With solid experience in Computer Vision, Pattern Recognition, and Mobile Roboti
 </p>
 
 <p align="justify">
-Responsible for content curation, pedagogical review, question development, and audiovisual production as a content creator. Coordinates the extension project "Unveiling Algorithmic Racism: A Contemporary Analysis" (2024), linked to the Academic Directorate of Human and Technological Sciences (DACHT Social) at UNIFESO.
+Responsible for content curation, pedagogical review, question development, and audiovisual production as a content creator.
+</p>
+
+<p align="justify">
+Coordinated the extension project "Unveiling Algorithmic Racism: A Contemporary Analysis" (2024), linked to the Academic Directorate of Human and Technological Sciences (DACHT Social) at UNIFESO.
 </p>
 
 <p align="justify">
