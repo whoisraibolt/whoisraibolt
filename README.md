@@ -1,23 +1,15 @@
 <h2 align="center">Hi there!</h2>
 
 <p align="justify">
-Research fellow at the Foundation for Research, Development, and Innovation Support of the Brazilian Army (FAPEB) and Ph.D. student in the Graduate Program in Defense Engineering (PGEDD) at the Military Institute of Engineering (IME). Holds a master’s degree from the Graduate Program in Systems and Computing (PGSC) at the Military Institute of Engineering (IME) (2021), as well as a bachelor’s degree in Information Systems from UNESA (2019) and in Information and Communication Technology from FAETERJ (2018). Has been working since 2015 in Machine Learning and Computer Vision, specializing in Neural Networks and Deep Convolutional Neural Networks.
+Research fellow funded by the Foundation for Research, Development, and Innovation Support of the Brazilian Army (FAPEB) and Ph.D. student in the Graduate Program in Defense Engineering (PGEDD) at the Military Institute of Engineering (IME). Holds an M.Sc. in Systems and Computing (PGSC/IME, 2021), a bachelor's degree in Information Systems (UNESA, 2019), and a bachelor's degree in Information and Communication Technology (FAETERJ, 2018). With more than a decade of experience in Machine Learning and Computer Vision, specializes in Deep Convolutional Neural Networks, Pattern Recognition, and Mobile Robotics, with emphasis on Ethical Algorithms and Artificial Intelligence solutions. Currently works with Large Language Models and Retrieval-Augmented Generation techniques applied to military cybersecurity.
 </p>
 
 <p align="justify">
-With solid experience in Computer Vision, Pattern Recognition, and Mobile Robotics, develops academic and extension projects in areas such as Artificial Intelligence and Ethical Algorithms. Currently serves as the coordinator of the Distance Learning Associate Degree in Systems Analysis and Development and as a professor at the Centro Universitário Serra dos Órgãos (UNIFESO), teaching in the programs of Distance Learning Systems Analysis and Development and Computer Science.
+Professor at UNIFESO — Serra dos Órgãos University Center, teaching courses in the on-campus Computer Science undergraduate program and in the distance-learning programs in Systems Analysis and Development and Artificial Intelligence. Coordinated the distance-learning Technology Degree in Systems Analysis and Development (2023-2025), being responsible for curriculum management, pedagogical alignment, faculty supervision, and educational quality assurance. Also works as a content curator, pedagogical reviewer, question writer, and audiovisual producer, contributing to excellence in technology education.
 </p>
 
 <p align="justify">
-Responsible for content curation, pedagogical review, question development, and audiovisual production as a content creator.
-</p>
-
-<p align="justify">
-Coordinated the extension project "Unveiling Algorithmic Racism: A Contemporary Analysis" (2024), linked to the Academic Directorate of Human and Technological Sciences (DACHT Social) at UNIFESO.
-</p>
-
-<p align="justify">
-Coordinated the scientific initiation project "Thoracic Radiological Diagnosis Support System with Deep Convolutional Neural Networks" (2022/2023), developed under the Scientific Initiation and Research Plan (PICPq) at UNIFESO.
+In the private sector, has experience in Artificial Intelligence and Computer Vision projects, focused on fraud detection, pattern recognition, and development of production-grade solutions. In research, coordinated the extension project "Unveiling Algorithmic Racism: A Contemporary Analysis" (2024), linked to the Academic Directorate of Human and Technological Sciences (DACHT Social) at UNIFESO — Serra dos Órgãos University Center, and the scientific initiation project "Thoracic Radiological Diagnosis Support System with Deep Convolutional Neural Networks" (2022/2023), developed under the Scientific Initiation and Research Plan (PICPq) at UNIFESO — Serra dos Órgãos University Center. Currently coordinates the scientific initiation project "Smart Impact AI: Intelligent Platform for ESG Promotion and Regional Sustainable Development" (2026/2027), also linked to UNIFESO's PICPq. In addition, contributes to the open-source community and leads side projects associated with Environmental, Social, and Governance (ESG) topics.
 </p>
 
 <p align="center">
